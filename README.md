@@ -1,27 +1,38 @@
-# Hi 👋, I'm Mohammed Vakil Kagzi
+# Mohammed Vakil Kagzi - Portfolio
 
-🎓 I'm currently studying **Business Information Systems** at **University of East London (UEL)**, actively looking for a year-long industrial placement in the **Tech** sector. I'm particularly interested in roles like **Web Developer**, **Business Analyst**, or **Data Analyst**.
+## About Me
+Hi 👋, I'm Mohammed Vakil Kagzi  
+🎓 I'm currently studying Business Information Systems at the University of East London (UEL) and actively looking for a year-long industrial placement in the IT sector. I'm particularly interested in roles like Business Analyst, Data Analyst, or Web Developer.  
+💻 This GitHub is where I showcase my projects and the skills I’ve developed through my academic journey. These experiences have helped me build a strong foundation in tech and problem-solving skills that I’m excited to bring into the professional world.  
+📚 I’m currently learning Python, SQL, and Web Development to strengthen my backend and frontend knowledge.
 
-💻 This GitHub is where I showcase my projects and the skills I’ve developed through my academic journey. These experiences have helped me build a strong foundation in web development, data analysis, and business information systems, and I’m excited to bring these skills into the professional world.
+## Projects
 
-📚 I’m currently enhancing my knowledge in **Python**, **SQL**, and **Web Development** to strengthen my backend and front-end skills.
+### [Portfolio.py - Python Project](https://github.com/Mohammed29849/mohammedvakil-README/blob/main/portfolio.py)
+This is my Python Portfolio project where I work on analyzing datasets and visualizing data using libraries like `pandas` and `matplotlib`.
 
-🚀 **Projects**  
+- **Problem One Task One**: Creating DataFrames from CSV data and working with multiple datasets.
+- **Problem One Task Two**: Generating summary statistics (descriptive analysis) of the data.
+- **Problem One Task Three**: Plotting scatter plots for data visualization.
+- **Problem Two Question One**: Scatter plot to visualize the correlation between earnings and unemployment.
+- **Problem Two Question Two**: Bar chart visualizing salary distributions for majors.
+- **Problem Three**: Categorizing reviews as expert, opposed, or neutral based on grade and text length.
+- **Problem Four**: SQL operations on creating tables, inserting records, and joining data.
 
-**🐍 Python Portfolio Project**  
-A first-year university project focused on developing Python-based solutions involving data analysis, visualisation, and database operations.  
+### [DBOperations.py - Database Operations](https://github.com/Mohammed29849/mohammedvakil-README/blob/main/DBOperations.py)
+This script contains several functions for performing database operations using SQLite, including creating connections, reading CSVs, and writing to databases.
 
-🔗 **Files:**  
-- `Portfolio.py`: Main script with analysis, visualisation, and SQL tasks  
-- `DBOperations.py`: Custom Python module for reading CSVs, creating databases, and writing to SQLite  
+- **create_Sqlite_connection()**: Establishes a connection to a new or existing SQLite database.
+- **readcsv()**: Reads CSV files into a Pandas DataFrame.
+- **writecsv_to_db()**: Writes a DataFrame to an SQLite database.
+- **displaydbtable()**: Displays data from the database using SQL queries.
 
----
+## How to Reach Me
 
-🛠️ **Languages & Tools**  
-- HTML5  
-- JavaScript  
-- MySQL  
-- Python  
+📧 Email: mohammedvakil.kagzi@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/mohammed-vakil-kagzi-b0753a301/)  
+[GitHub](https://github.com/Mohammed29849)
 
-📫 **How to reach me**  
-📧 [mohammedvakil.kagzi@gmail.com](mailto:mohammedvakil.kagzi@gmail.com)
+## 🛠️ Languages & Tools
+HTML5, JavaScript, MySQL, Python
+
